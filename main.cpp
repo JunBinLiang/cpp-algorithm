@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<vector>
 #include<string>
@@ -7,6 +6,9 @@
 using namespace std;
 using ll = long long;
 
+#define pb push_back
+#define f first
+#define s second
 
 //Some predefined templates
 template <typename T>
