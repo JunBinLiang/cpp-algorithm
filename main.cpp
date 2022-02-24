@@ -3,6 +3,11 @@
 #include<string>
 #include<map>
 #include<unordered_map>
+#include<set>
+#include<unordered_set>
+#include <algorithm>
+#include <cmath>
+#include <cstring>
 using namespace std;
 using ll = long long;
 
@@ -33,9 +38,19 @@ ostream& operator <<(ostream& out, const unordered_map<U, T, Cmp>& a) {
   return out;
 }
 
+
+int to_int(string& s) {
+  int res = 0;
+  for(char c : s) {
+    res = res * 10 + (c - '0');
+  }
+  return res;
+}
+
+
 int main()
 {
 
-    return 0;
+  return 0;
 }
 
