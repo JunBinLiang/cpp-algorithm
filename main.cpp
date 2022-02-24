@@ -47,6 +47,7 @@ int to_int(string& s) {
   return res;
 }
 
+int mod = 1000000007;
 
 int main()
 {
