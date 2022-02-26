@@ -38,6 +38,13 @@ ostream& operator <<(ostream& out, const unordered_map<U, T, Cmp>& a) {
   return out;
 }
 
+ll gcd(ll x, ll y) {
+    return (y == 0 ? x : gcd(y, x % y));
+}
+ll lcm(ll x, ll y) {
+    return x * y / gcd(x, y);
+}
+
 
 int to_int(string& s) {
   int res = 0;
