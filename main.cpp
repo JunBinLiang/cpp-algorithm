@@ -15,7 +15,6 @@ using ll = long long;
 #define f first
 #define s second
 #define ve vector
-
 #define FOR(i, a, b) for (int i = a; i < b; ++i)
 
 //Some predefined templates
