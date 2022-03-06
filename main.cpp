@@ -14,6 +14,7 @@ using ll = long long;
 #define pb push_back
 #define f first
 #define s second
+#define ve vector
 
 //Some predefined templates
 template <typename T>
