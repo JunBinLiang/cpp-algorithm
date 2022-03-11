@@ -16,6 +16,7 @@ using ll = long long;
 #define s second
 #define ve vector
 #define FOR(i, a, b) for (int i = a; i < b; ++i)
+#define RFOR(i, a, b) for (int i = a; i >= b; i--)
 
 //Some predefined templates
 template <typename T>
