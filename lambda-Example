@@ -1,11 +1,11 @@
 auto check = [&](ll mid) -> bool {
-      ll cnt = 0;
-      int j = all[1].size() - 1;
-      for(int i = 0; i < all[0].size(); i++) {
-        while(j >= 0 && all[0][i] > mid / all[1][j]) {
-          j--;
-        }
-        cnt += (j + 1);
+    ll cnt = 0;
+    int j = all[1].size() - 1;
+    for(int i = 0; i < all[0].size(); i++) {
+      while(j >= 0 && all[0][i] > mid / all[1][j]) {
+        j--;
       }
-      return cnt >= k;
+      cnt += (j + 1);
+    }
+    return cnt >= k;
   };
