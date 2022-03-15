@@ -172,7 +172,7 @@ int query(int id) {
   
   int left = id * 2 + 1, right = id * 2 + 2;
   int mid = l + (r - l) / 2;
-  //check tag
+
   if(tree[id].sum == (r - l + 1)) {
     return -1;
   }
