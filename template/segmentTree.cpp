@@ -9,6 +9,7 @@
 #include <cmath>
 #include <cstring>
 #include <queue>
+#include <list>
 using namespace std;
 using ll = long long;
 
@@ -85,15 +86,13 @@ int to_int(string &s)
 }
 
 int MOD = 998244353;
-int mod = 1000000007;
+int mod = 998244353;
 int INF = INT_MAX;
-const int MAX = 150020;
-
-
+const int MAX = 1000000 + 10;
 struct Node {
   int l, r;
-  int setTo = 0, flip = 0, sum = 0;
-} tree[MAX * 8];
+  int setTo = 0, mx = 0;
+} tree[MAX * 4];
 
 void build(int id) {
   int l = tree[id].l, r = tree[id].r;
@@ -101,161 +100,113 @@ void build(int id) {
     return;
   }
   int mid = l + (r - l) / 2;
-  tree[id * 2 + 1] = {l, mid, -1, 0, 0};
-  tree[id * 2 + 2] = {mid + 1, r, -1, 0, 0};
+  tree[id * 2 + 1] = {l, mid, 0, 0};
+  tree[id * 2 + 2] = {mid + 1, r, 0, 0};
   build(id * 2 + 1);
   build(id * 2 + 2);
 }
 
-void update(int id, int s, int e, int val, int flip) {
+void update(int id, int s, int e, int val) { 
   int l = tree[id].l, r = tree[id].r;
   if(l == s && r == e) {
-    if(flip == 1) {
-      if(tree[id].setTo == -1) {
-        tree[id].flip++;
-        tree[id].flip%= 2;
-        tree[id].sum = (r - l + 1) - tree[id].sum;
-      } 
-      else if(tree[id].setTo == 0) {
-        tree[id].setTo = 1;
-        tree[id].sum = (r - l + 1);
-      } else {
-        tree[id].setTo = 0;
-        tree[id].sum = 0;
-      }
-
-    } else {
-      tree[id].setTo = val;
-      tree[id].flip = 0;
-      if(val == 0) {
-        tree[id].sum = 0;
-      } else {
-        tree[id].sum = r - l + 1;
-      }
-    }
+    tree[id].setTo += val;
+    tree[id].mx += val; 
     return;
   }
 
-
   int mid = l + (r - l) / 2;
   int left = id * 2 + 1, right = id * 2 + 2;
-  
-  //push down
-  if(tree[id].setTo != -1) {
-    update(left, tree[left].l, tree[left].r, tree[id].setTo, 0);
-    update(right, tree[right].l, tree[right].r, tree[id].setTo, 0);
-    tree[id].setTo = -1;
-  }
-  if(tree[id].flip != 0) {
-    update(left, tree[left].l, tree[left].r, 0, tree[id].flip);
-    update(right, tree[right].l, tree[right].r, 0, tree[id].flip);
-    tree[id].flip = 0;
-  }
 
+  if(tree[id].setTo != 0) {
+    update(left, tree[left].l, tree[left].r, tree[id].setTo);
+    update(right, tree[right].l, tree[right].r, tree[id].setTo);
+    tree[id].setTo = 0;
+  }
 
   if(e <= mid) {
-    update(left, s, e, val, flip);
+    update(left, s, e, val);
   } else if(s >= mid + 1) {
-    update(right, s, e, val, flip);
+    update(right, s, e, val);
   } else {
-    update(left, s, mid, val, flip);
-    update(right, mid + 1, e, val, flip);
+    update(left, s, mid, val);
+    update(right, mid + 1, e, val);
   }
-  tree[id].sum = tree[left].sum + tree[right].sum;
-}
-
-int query(int id) {
-  int l = tree[id].l, r = tree[id].r;
-  if(l == r) {
-    return l;
-  }
-  
-  int left = id * 2 + 1, right = id * 2 + 2;
-  int mid = l + (r - l) / 2;
-
-  if(tree[id].sum == (r - l + 1)) {
-    return -1;
-  }
-
-  //push down
-  if(tree[id].setTo != -1) {
-    update(left, tree[left].l, tree[left].r, tree[id].setTo, 0);
-    update(right, tree[right].l, tree[right].r, tree[id].setTo, 0);
-    tree[id].setTo = -1;
-  }
-  if(tree[id].flip != 0) {
-    update(left, tree[left].l, tree[left].r, 0, tree[id].flip);
-    update(right, tree[right].l, tree[right].r, 0, tree[id].flip);
-    tree[id].flip = 0;
-  }
-
-
-  int s1 = mid - l + 1;
-  int s2 = (r - l + 1) - s1;
-  if(tree[left].sum < s1) {
-    return query(id * 2 + 1);
-  } else {
-    return query(id * 2 + 2);
-  }
-
+  tree[id].mx = max(tree[left].mx, tree[right].mx);
 }
 
 
-unordered_map<ll, int> f;
-unordered_map<int, ll> g;
-void solve() {
-  int n;
-  cin >> n;
-  ve<ve<ll>> Q;
-  ve<ll> a;
-  FOR(i, 0, n) {
-    ll op, l, r;
-    cin >> op >> l >> r;
-    Q.pb({op, l, r});
-    a.pb(l); a.pb(r);
-    a.pb(r + 1);
-  }
-  a.pb(1);
-  a.pb(2);
-  
-  // discrete values
-  ll mx = -1;
-  sort(a.begin(), a.end());
-  int id = 0;
-  FOR(i, 0, a.size()) {
-    if(i > 0 && a[i] == a[i - 1]) {
-    } else {
-      f[a[i]] = id;
-      g[id] = a[i];
-      id++;
-    }
-    mx = max(mx, a[i]);
-  }
 
+int cnt[1000000 + 10];
+int ids[1000000 + 10];
+int id = 0;
+void dfs(ve<ve<int>>& graph, int cur) {
+  for(int& next : graph[cur]) {
+    dfs(graph, next);
+  }
+  ids[cur] = id;
+  id++;
+}
 
-  tree[0] = {0, id, -1, 0, 0};
+int cal(ve<ve<int>>& graph, int cur) {
+  cnt[cur] = 1;
+  for(int& next : graph[cur]) {
+    cnt[cur] += cal(graph, next);
+  }
+  return cnt[cur];
+}
+
+void solve(ve<int>& a, int k) {
+  int n = a.size();
+  ve<int> next(n, -1);
+  ve<ve<int>> graph(n);
+  memset(cnt, 0, sizeof(cnt));
+  memset(ids, -1, sizeof(ids));
+
+  tree[0] = {0, n, 0, 0};
   build(0);
 
 
-  for(ve<ll>& q : Q) {
-    ll op = q[0], l = q[1], r = q[2];
-    int ll = f[l], rr = f[r]; 
-    if(op == 1) {//add
-      update(0, ll, rr, 1, 0);
-    } else if(op == 2) {//delete
-      update(0, ll, rr, 0, 0);
-    } else { //flip
-      update(0, ll, rr, -1, 1);
-    }
 
-    int index = query(0);
-    if(index == -1 || index >= id) {// all are setted
-      cout << mx + 1 << endl;
-    } else {
-      cout << g[index] << endl;
+  ve<int> sta;
+  FOR(i, 0, n) {
+    while(sta.size() > 0 && a[i] > a[sta[sta.size() - 1]]) {
+      int index = sta[sta.size() - 1];
+      sta.pop_back();
+      next[index] = i;
+    }
+    sta.pb(i);
+  }
+
+
+  FOR(i, 0, n) {
+    if(next[i] == -1) continue;
+    int u = i, v = next[i];
+    graph[v].pb(u);
+  }
+
+
+  FOR(i, 0, n) {
+    if(next[i] == -1) { // root
+      cal(graph, i);
+      dfs(graph, i);
     }
   }
+
+
+  for(int i = 0, j = 0; i < n; i++) {
+    int r = ids[i], l = r - cnt[i] + 1;
+    update(0, l, r, 1);
+    if(i + 1 < k) continue;
+    int mx = tree[0].mx;
+    printf("%d ",mx);
+    r = ids[j]; l = r - cnt[j] + 1;
+    j++;
+    update(0, r, r, -10000000);
+  }
+
 }
+
+
 
 int main()
 {
@@ -263,7 +214,13 @@ int main()
   //cin >> t;
   while (t--)
   {
-    solve();
+    int n, k;
+    cin >> n >> k;
+    ve<int> a(n);
+    FOR(i, 0, n) {
+      cin >> a[i];
+    }
+    solve(a, k);
   }
   return 0;
 }
