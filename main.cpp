@@ -18,6 +18,8 @@ using ll = long long;
 #define FOR(i, a, b) for (int i = a; i < b; ++i)
 #define RFOR(i, a, b) for (int i = a; i >= b; i--)
 #define W while
+#define um unordered_map
+#define us unordered_set
 
 //Some predefined templates
 template <typename T>
