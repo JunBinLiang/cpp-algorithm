@@ -1,6 +1,7 @@
 namespace Combination {
   int mod = 1000000007;
   ll fact[1000000 + 100];
+  ll inv[1000000 + 100];
   
   ll modInverse(ll a, ll m) {
       ll m0 = m;
@@ -45,6 +46,12 @@ namespace Combination {
     FOR(i, 1, 1000000 + 50) {
       fact[i] = fact[i - 1] * i;
       fact[i] %= mod;
+    }
+
+    inv[0] = inv[1]=1;
+    for (int i=2;i < 1000000 + 50;i++){
+        inv[i] = modInverse(i,mod) * inv[i-1];
+        inv[i] %= mod;
     }
   }
 }
