@@ -1,3 +1,5 @@
+//中国余数算法
+
 namespace JBCRT {
   ll Exgcd(ll a,ll b,ll &x,ll &y){
     if( b == 0 ) { x = 1;y = 0; return a;}
