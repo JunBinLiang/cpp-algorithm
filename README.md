@@ -1,6 +1,2 @@
-# cpp-Learn
-
-c++ 刷题 ： https://github.com/JunBinLiang/Codeforce/blob/main/greedy.md
-<br/><br/><br/>
-
 # Content
+c++ 每日一题 ： https://github.com/JunBinLiang/Codeforce/blob/main/greedy.md
