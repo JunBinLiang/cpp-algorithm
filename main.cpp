@@ -52,13 +52,16 @@ ll lcm(ll x, ll y) {
     return x * y / gcd(x, y);
 }
 
-
 int to_int(string& s) {
   int res = 0;
   for(char c : s) {
     res = res * 10 + (c - '0');
   }
   return res;
+}
+
+bool COMP(ve<int>& a, ve<int>& b) {
+  return false;
 }
 
 int mod = 1000000007;
