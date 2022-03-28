@@ -1,4 +1,4 @@
-# 算法专题
+# 算法竞赛学习
 
 ### 后缀数组
 [Acwing 2715 后缀数组 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84.cpp)
