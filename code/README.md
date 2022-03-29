@@ -24,7 +24,7 @@
 # Leetcode 经典题
 
 ### Array (In Place Swap 问题)
-[LC287 (M) Find the Duplicate Number ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/Leetcode/lc287.cpp) <br/> 
+[LC287 (M) Find the Duplicate Number ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/Leetcode/lc287.cpp) <br/> 
 
 
 
