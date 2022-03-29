@@ -23,6 +23,9 @@
 <br/><br/><br/>
 # Leetcode
 
+### Array
+[LC287 (M) Find the Duplicate Number ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/Leetcode/lc287.cpp) <br/> 
+
 
 
 <br/><br/><br/>
