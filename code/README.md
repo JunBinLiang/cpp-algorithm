@@ -41,3 +41,4 @@
 [1656E (2200) Equal Tree Sums (Tree + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/1656E.cpp)<br/>
 [915G (2300) Coprime Arrays(莫比乌斯反演 + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/915G.cpp)<br/>
 [707D (2200) Persistent Bookcase (DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/707D.cpp)<br/>
+[1585E (2400) Frequency Queries	 (Segment Tree + DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/1585E.cpp)<br/>
