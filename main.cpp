@@ -31,6 +31,21 @@ ostream& operator <<(ostream& out, const vector<T>& a) {
   return out;
 }
 
+template <typename T>
+ostream &operator<<(ostream &out, const unordered_set<T> &a)
+{
+  out << "[";
+  bool first = true;
+  for (auto v : a)
+  {
+    out << (first ? "" : ", ");
+    out << v;
+    first = 0;
+  }
+  out << "]";
+  return out;
+}
+
 template <typename U, typename T, class Cmp>
 ostream& operator <<(ostream& out, const map<U, T, Cmp>& a) {
   out << "{"; bool first = true;
