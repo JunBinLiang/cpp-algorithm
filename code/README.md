@@ -42,3 +42,4 @@
 [915G (2300) Coprime Arrays(莫比乌斯反演 + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/915G.cpp)<br/>
 [707D (2200) Persistent Bookcase (DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/707D.cpp)<br/>
 [1585E (2400) Frequency Queries	 (Segment Tree + DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/1585E.cpp)<br/>
+[1619H (2400) Permutation and Queries	 (分块 + 链表) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/codeforce/1619H.cpp)<br/>
