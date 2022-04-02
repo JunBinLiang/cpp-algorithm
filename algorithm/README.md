@@ -15,16 +15,16 @@
 # Leetcode Weekly Contest
 
 ### Weekly 286
-[LC2215 (E) Find the Difference of Two Arrays  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2215.cpp)<br/>
-[LC2216 (M) Minimum Deletions to Make Array Beautiful  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2216.cpp)<br/> 
-[LC2217 (M) Find Palindrome With Fixed Length  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2217.cpp) <br/> 
-[LC2218 (H) Maximum Value of K Coins From Piles ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2218.cpp) <br/> 
+[LC2215 (E) Find the Difference of Two Arrays (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2215.cpp)<br/>
+[LC2216 (M) Minimum Deletions to Make Array Beautiful (Stack) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2216.cpp)<br/> 
+[LC2217 (M) Find Palindrome With Fixed Length  (Math)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2217.cpp) <br/> 
+[LC2218 (H) Maximum Value of K Coins From Piles (DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2218.cpp) <br/> 
 
 ### BiWeekly 75
-[LC2220 (E) Minimum Bit Flips to Convert Number  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2220.cpp)<br/>
-[LC2221 (M) Find Triangular Sum of an Array  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2221.cpp)<br/> 
-[LC2222 (M) Number of Ways to Select Buildings  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2222.cpp) <br/> 
-[LC2223 (H)  Sum of Scores of Built Strings ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2223.cpp) <br/> 
+[LC2220 (E) Minimum Bit Flips to Convert Number (Bit) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2220.cpp)<br/>
+[LC2221 (M) Find Triangular Sum of an Array (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2221.cpp)<br/> 
+[LC2222 (M) Number of Ways to Select Buildings (DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2222.cpp) <br/> 
+[LC2223 (H)  Sum of Scores of Built Strings (Rolling Hash + BinarySearch)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2223.cpp) <br/> 
 
 
 
