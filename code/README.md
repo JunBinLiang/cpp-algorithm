@@ -20,6 +20,14 @@
 [LC2217 (M) Find Palindrome With Fixed Length  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2217.cpp) <br/> 
 [LC2218 (H) Maximum Value of K Coins From Piles ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2218.cpp) <br/> 
 
+### Bi - Weekly 75
+[LC2220 (E) Minimum Bit Flips to Convert Number  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2220.cpp)<br/>
+[LC2221 (M) Find Triangular Sum of an Array  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2221.cpp)<br/> 
+[LC2222 (M) Number of Ways to Select Buildings  ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2222.cpp) <br/> 
+[LC2223 (H)  Sum of Scores of Built Strings ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/code/weekly-contest/2223.cpp) <br/> 
+
+
+
 <br/><br/><br/>
 # Leetcode 经典题
 
