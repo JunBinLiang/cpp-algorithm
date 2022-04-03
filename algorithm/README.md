@@ -26,6 +26,12 @@
 [LC2222 (M) Number of Ways to Select Buildings (DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2222.cpp) <br/> 
 [LC2223 (H)  Sum of Scores of Built Strings (Rolling Hash + BinarySearch)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2223.cpp) <br/> 
 
+### Weekly 287
+[LC2224 (E) Minimum Number of Operations to Convert Time (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2224.cpp)<br/>
+[LC2225 (M) Find Players With Zero or One Losses (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2225.cpp)<br/> 
+[LC2226 (M) Maximum Candies Allocated to K Children (Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2226.cpp) <br/> 
+[LC2227 (H)  Encrypt and Decrypt Strings (Brute Force)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2227.cpp) <br/> 
+
 
 
 <br/><br/><br/>
