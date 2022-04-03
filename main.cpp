@@ -20,7 +20,8 @@ using ll = long long;
 #define W while
 #define um unordered_map
 #define us unordered_set
-#define str string
+#define be begin
+#define en end
 
 //Some predefined templates
 template <typename T>
