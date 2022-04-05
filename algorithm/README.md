@@ -40,6 +40,10 @@
 ### Array (In Place Swap 问题)
 [LC287 (M) Find the Duplicate Number ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc287.cpp) <br/> 
 
+### DP
+[LC300 (M) Longest Increasing Subsequence ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc300.cpp) <br/> 
+
+
 ### Trie 
 [LC208 (M) Implement Trie (Prefix Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc208.cpp) <br/> 
 
