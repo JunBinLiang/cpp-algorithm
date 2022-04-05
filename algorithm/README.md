@@ -67,3 +67,4 @@
 [1660F2 (2100) Promising String (hard version) (Fenwick + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1660F2.cpp)<br/>
 [1100E (2200) Andrew and Taxi (Graph + Topo + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1100E.cpp)<br/>
 [1343F (2400) Restore the Permutation by Sorted Segments ( Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1343F.cpp)<br/>
+[220E (2400) Little Elephant and Inversions (Two Pointer + 逆序对) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/220E.cpp)<br/>
