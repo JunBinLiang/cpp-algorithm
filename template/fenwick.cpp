@@ -25,3 +25,43 @@ namespace Fenwick {
       return pre(j + 1) - pre(i);
   }
 }
+
+
+
+
+
+
+
+
+
+//multiple fenwick tree
+namespace Fenwick {
+  const int SIZE = 100000 + 100;
+  int tree[2][SIZE];
+  void init(int n) {
+    FOR(i, 0, n + 5) {
+      tree[0][i] = 0;
+      tree[1][i] = 0;
+    }
+  }
+
+  void update(int which, int i, int val) {
+    i++;
+    while(i < SIZE){
+      tree[which][i] += val;
+      i += (i & -i);
+    }
+  }
+
+  int pre(int which, int i) {
+    int sum = 0;
+    while(i > 0){
+      sum += tree[which][i];
+      i -= ( i & -i);
+    }
+    return sum;
+  }
+  int query(int which, int i, int j) {
+      return pre(which, j + 1) - pre(which, i);
+  }
+}
