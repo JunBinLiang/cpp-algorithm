@@ -38,7 +38,8 @@ namespace Fenwick {
 namespace Fenwick {
   const int SIZE = 100000 + 100;
   int tree[2][SIZE];
-  void init(int n = SIZE) {
+  void init(int n = 100000 + 100) {
+    SIZE = n + 5;
     FOR(i, 0, n + 5) {
       tree[0][i] = 0;
       tree[1][i] = 0;
