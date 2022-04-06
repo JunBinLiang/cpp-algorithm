@@ -42,6 +42,7 @@
 
 ### DP : LIS
 [LC300 (M) Longest Increasing Subsequence ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc300.cpp) <br/> 
+[LC2111 (H) Minimum Operations to Make the Array K-Increasing ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc2111.cpp) <br/> 
 
 
 ### Trie 
