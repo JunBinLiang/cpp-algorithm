@@ -4,21 +4,6 @@
 #define W while
 #define um unordered_map
 
-template <typename T>
-ostream &operator<<(ostream &out, const vector<T> &a)
-{
-  out << "[";
-  bool first = true;
-  for (auto v : a)
-  {
-    out << (first ? "" : ", ");
-    out << v;
-    first = 0;
-  }
-  out << "]";
-  return out;
-}
-
 class Solution {
 public:
     int minOperations(vector<int>& a, vector<int>& b) {
