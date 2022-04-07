@@ -28,6 +28,7 @@ namespace Combination {
   }
 
   ll Pow(ll a, ll b, ll mo){
+    if(b == 0) return 1;
     ll an = 0;
     while(b) {
         if(b&1) an = (an + a) % mo;
