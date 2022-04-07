@@ -27,16 +27,7 @@ namespace Combination {
       return x;
   }
 
-  ll Pow(ll a, ll b, ll mo){
-    if(b == 0) return 1;
-    ll an = 0;
-    while(b) {
-        if(b&1) an = (an + a) % mo;
-        a = (a + a) % mo;
-        b >>= 1;
-    }
-    return an % mo;
-  }
+
 
   ll C(int n,int m) {
       return fact[n] * Pow(fact[n-m], mod - 2, mod) % mod * Pow (fact[m], mod - 2, mod) % mod;
