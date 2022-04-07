@@ -9,6 +9,7 @@
 
 ### 第一类斯特林
 [Acwing 3165 第一类斯特林数 ](https://github.com/JunBinLiang/cpp-algorithm/tree/main/algorithm/%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0)  <br/>
+[Acwing 3020 建筑师 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0/%E5%BB%BA%E7%AD%91%E5%B8%88.cpp)  <br/>
 
 ### 第二类斯特林
 [Acwing 3166 第二类斯特林数 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%B1%BB%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0.cpp)  <br/>
