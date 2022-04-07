@@ -7,6 +7,9 @@
 [Acwing 221 龙哥的问题 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0/%E9%BE%99%E5%93%A5%E7%9A%84%E9%97%AE%E9%A2%98.cpp)  <br/>
 
 
+### 第一类斯特林
+[Acwing 3165 第一类斯特林数 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/topic/%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0/%E7%AC%AC%E4%B8%80%E7%B1%BB%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0.cpp)  <br/>
+
 
 <br/><br/><br/>
 # USCAO
