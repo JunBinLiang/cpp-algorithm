@@ -57,7 +57,10 @@
 
 
 ### Mono Queue
-[LC239 (H) Sliding Window Maximum ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc239.cpp) <br/> 
+[LC239 (H) Sliding Window Maximum ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc239.cpp) <br/>
+
+### Math
+[LC1819 (H) Number of Different Subsequences GCDs ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1819.cpp) <br/>
 
 
 <br/><br/><br/>
