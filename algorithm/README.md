@@ -59,6 +59,10 @@
 [LC208 (M) Implement Trie (Prefix Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc208.cpp) <br/> 
 
 
+### 基环树
+[LC684 (M) Redundant Connection ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc684.cpp) <br/> 
+
+
 ### Mono Queue
 [LC239 (H) Sliding Window Maximum ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc239.cpp) <br/>
 
