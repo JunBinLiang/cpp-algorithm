@@ -43,7 +43,7 @@
 ### Weekly 288
 [LC2231 (E) Largest Number After Digit Swaps by Parity (Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2231.cpp)<br/>
 
-
+[LC2233 (M) Maximum Product After K Increments (Math + Heap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2233.cpp)<br/>
 
 
 <br/><br/><br/>
