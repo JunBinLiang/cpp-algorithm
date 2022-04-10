@@ -15,3 +15,9 @@ int get_size(int u, int fa)  // 求子树大小
             res += get_size(e[i], u);
     return res;
 }
+
+void main() {
+  memset(h, -1, sizeof h);
+  idx = 0;
+
+}
