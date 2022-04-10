@@ -40,6 +40,11 @@
 [LC2227 (H)  Encrypt and Decrypt Strings (Brute Force)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2227.cpp) <br/> 
 
 
+### Weekly 288
+[LC2231 (E) Largest Number After Digit Swaps by Parity (Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2231.cpp)<br/>
+
+
+
 
 <br/><br/><br/>
 # Leetcode 经典题
