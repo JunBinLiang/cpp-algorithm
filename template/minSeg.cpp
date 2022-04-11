@@ -17,7 +17,7 @@ void build(int id) {
   build(id * 2 + 2);
 }
 
-void update(int id, int index, ll val) { 
+void update(int id, int index, int val) { 
   int l = tree[id].l, r = tree[id].r;
   if(l == r) {
     tree[id].mn = val; 
