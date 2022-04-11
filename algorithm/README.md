@@ -105,3 +105,4 @@
 [932E (2400) Team Work	 (Math + 微积分 + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/932E.cpp)<br/>
 [1107G (2400) Vasya and Maximum Profit		 (Stack + Segment Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1107G.cpp)<br/>
 [1027F (2400) Session in BSU		 (Tree + UF) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1027F.cpp)<br/>
+[1641C (2200) Anonymity Is Important		 (Seg + Set + Interval + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1641C.cpp)<br/>
