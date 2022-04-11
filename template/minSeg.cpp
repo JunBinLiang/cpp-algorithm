@@ -20,7 +20,7 @@ void build(int id) {
 void update(int id, int index, int val) { 
   int l = tree[id].l, r = tree[id].r;
   if(l == r) {
-    tree[id].mn = val; 
+    tree[id].mn = min(tree[id].mn, val);  
     return;
   }
 
