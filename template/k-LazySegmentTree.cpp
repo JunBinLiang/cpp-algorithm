@@ -1,4 +1,4 @@
-const int MAX = 120000;
+const int MAX = 520000;
 struct Node {
   int l, r;
   int leftIdx = 0, rightIdx = 0;
@@ -20,7 +20,6 @@ void update(int id, int index, int val) {
       tree[id].leftIdx = nodeIdx;
       nodeIdx++;
     }
-    cout <<"left " <<  id << " " << l << " " << r <<" " << tree[id].leftIdx << endl;
     update(tree[id].leftIdx, index , val);
   } else {
     if(tree[id].rightIdx == 0) {
@@ -28,7 +27,6 @@ void update(int id, int index, int val) {
       tree[id].rightIdx = nodeIdx;
       nodeIdx++;
     }
-    cout <<"right " <<  id << " " << l << " " << r <<" " << tree[id].rightIdx << endl;
     update(tree[id].rightIdx, index , val);
   }
 
