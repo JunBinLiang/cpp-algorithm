@@ -113,3 +113,4 @@
 [1027F (2400) Session in BSU		 (Tree + UF) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1027F.cpp)<br/>
 [1641C (2200) Anonymity Is Important		 (Seg + Set + Interval + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1641C.cpp)<br/>
 [1045G (2200) AI robots			 (k segment Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1045G.cpp)<br/>
+[1045B (2400) Space Isaac			 (Math + Rilling Hash) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1045B.cpp)<br/>
