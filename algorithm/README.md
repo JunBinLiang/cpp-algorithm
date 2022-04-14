@@ -88,6 +88,9 @@
 ### Math
 [LC1819 (H) Number of Different Subsequences GCDs ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1819.cpp) <br/>
 
+### Rolling Hash
+[LC336 (H) Palindrome Pairs ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc336.cpp) <br/>
+
 
 <br/><br/><br/>
 # Acwing  比赛题
