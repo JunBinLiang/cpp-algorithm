@@ -7,6 +7,7 @@ using namespace std;
 //double
 //char
 //string
+//bool : true / false
 //long long : 2 ^ 64
 //ascii table for character : https://www.alpharithms.com/ascii-table-512119/
 
