@@ -20,6 +20,7 @@
 
 ### 仙人掌 & 圆方树
 [Acwing 2863 最短路 (模板) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E4%BB%99%E4%BA%BA%E6%8E%8C/%E6%9C%80%E7%9F%AD%E8%B7%AF.cpp)  <br/>
+[1045C (2300) Hyperspace Highways (圆方树 + tarjan 找连通块) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1045C.cpp)<br/>
 
 ### 霍夫曼树 (贪心)
 [884D (2300) Boxes And Balls		 (Greedy + HuffmanTree + Heap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/884D.cpp)<br/>
