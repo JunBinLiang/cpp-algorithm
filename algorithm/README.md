@@ -19,7 +19,7 @@
 [Acwing 3166 第二类斯特林数 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0/%E7%AC%AC%E4%BA%8C%E7%B1%BB%E6%96%AF%E7%89%B9%E6%9E%97%E6%95%B0.cpp)  <br/>
 
 ### 仙人掌 & 圆方树
-[Acwing 2863 最短路 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E4%BB%99%E4%BA%BA%E6%8E%8C/%E6%9C%80%E7%9F%AD%E8%B7%AF.cpp)  <br/>
+[Acwing 2863 最短路 (模板) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/%E4%BB%99%E4%BA%BA%E6%8E%8C/%E6%9C%80%E7%9F%AD%E8%B7%AF.cpp)  <br/>
 
 ### 霍夫曼树 (贪心)
 [884D (2300) Boxes And Balls		 (Greedy + HuffmanTree + Heap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/884D.cpp)<br/>
