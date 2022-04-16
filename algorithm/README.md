@@ -25,7 +25,8 @@
 ### 霍夫曼树 (贪心)
 [884D (2300) Boxes And Balls		 (Greedy + HuffmanTree + Heap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/884D.cpp)<br/>
 
-
+### 容斥
+[449D (2400) Jzzhu and Numbers (容斥 + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/449D.cpp)<br/>
 
 <br/><br/><br/>
 # USCAO
