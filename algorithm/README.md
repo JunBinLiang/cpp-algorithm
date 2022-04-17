@@ -76,6 +76,10 @@
 [LC1713 (H) Minimum Operations to Make a Subsequence ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1713.cpp) <br/> 
 [LC2111 (H) Minimum Operations to Make the Array K-Increasing ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc2111.cpp) <br/> 
 
+### DP : Distinct Subsequence
+[LC940 (H) Distinct Subsequences II ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc940.cpp) <br/> 
+
+
 ### 二维前缀和
 [LC1292 (M) Maximum Side Length of a Square with Sum Less than or Equal to Threshold ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1292.cpp) <br/> 
 
