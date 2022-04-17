@@ -59,6 +59,11 @@
 
 
 ### Weekly 289
+[LC2243 (E)Calculate Digit Sum of a String (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2243.cpp)<br/>
+[LC2244 (M) Minimum Rounds to Complete All Tasks (Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2244.cpp)<br/> 
+[LC2245 (M) Maximum Trailing Zeros in a Cornered Path ( Prefix Sum) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2245.cpp) <br/> 
+[LC2246 (H)  Longest Path With Different Adjacent Characters (Tree)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2246.cpp) <br/> 
+
 
 <br/><br/><br/>
 # Leetcode 经典题
