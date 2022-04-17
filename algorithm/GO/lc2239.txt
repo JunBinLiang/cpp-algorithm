@@ -1,0 +1,30 @@
+func abs(a int) int {
+    if a < 0 {
+        return -a
+    }
+    return a
+}
+
+func max(a int, b int) int {
+    if a > b {
+        return a
+    }
+    return b
+}
+
+func findClosestNumber(a []int) int {
+    mn := 1000000
+    res := -1000000
+    for i := 0; i < len(a); i++ {
+        dif := abs(a[i])
+        if dif <= mn {
+            if dif == mn {
+                res = max(res, a[i])
+            } else {
+                mn = dif
+                res = a[i]
+            }
+        }
+    }
+    return res
+}
