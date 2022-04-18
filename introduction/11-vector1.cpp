@@ -7,9 +7,7 @@ using namespace std;
 //vercor : (object) array, dynamic size
 
 int main() {
-    vector<int> a(2);
-    a[0] = 1;
-    a[1] = 2;
+    vector<int> a = {1, 2};
     cout << a.size() << endl;
     a.push_back(10);
     cout << a.size() << endl;
