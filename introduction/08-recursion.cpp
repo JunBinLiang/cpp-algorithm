@@ -18,6 +18,9 @@ int sum2(int n) {
     return n + sum2(n - 1);
 }
 
+//f(3) = 3 + f(2) = 3 + 3 = 6
+//f(2) = 2 + f(1) = 2 + 1 = 3
+//f(1) = 1
 
 int main() {
     cout << sum2(4) << endl;
