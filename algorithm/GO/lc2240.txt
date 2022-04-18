@@ -1,0 +1,11 @@
+func waysToBuyPensPencils(total int, cost1 int, cost2 int) int64 {
+    res := int64(0)
+    for i := 0; i <= total; i++ {
+        x := cost1 * i
+        if x > total {
+            break
+        }
+        res += int64((((total - x) / cost2) + 1))
+    }
+    return res
+}
