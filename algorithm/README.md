@@ -137,3 +137,4 @@
 [1045G (2200) AI robots			 (k segment Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1045G.cpp)<br/>
 [1045B (2400) Space Isaac			 (Math + Rilling Hash) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1045B.cpp)<br/>
 [660E (2400) Different Subsets For All Tuples			 (DP + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/660E.cpp)<br/>
+[1665E (2500) MinimizOR	 (Bit + Thinking + Divide Conquer) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1665E.cpp)<br/>
