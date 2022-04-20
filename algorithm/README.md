@@ -102,6 +102,9 @@
 ### Mono Queue
 [LC239 (H) Sliding Window Maximum ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc239.cpp) <br/>
 
+### Mono Stack
+[LC1944 (H) Number of Visible People in a Queue ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1944.cpp) <br/>
+
 ### Math
 [LC1819 (H) Number of Different Subsequences GCDs ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1819.cpp) <br/>
 
