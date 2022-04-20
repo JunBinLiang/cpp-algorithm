@@ -11,22 +11,26 @@ class Person {
     //constructor
     
     public:
-    Person(int aage, string nname) {
-        age = aage;
-        name = nname ;
-    }
-    
-    int getAge() {
-        return age;
-    }
-    
-    string getName() {
-        return name;
-    }
-    
-    void setAge(int aage) {
-        age = aage;
-    }
+        Person(int aage, string nname) {
+            age = aage;
+            name = nname ;
+        }
+        
+        Person() {
+            
+        }
+        
+        int getAge() {
+            return age;
+        }
+        
+        string getName() {
+            return name;
+        }
+        
+        void setAge(int aage) {
+            age = aage;
+        }
     
     
 };
