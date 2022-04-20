@@ -1,0 +1,21 @@
+func minimumRounds(tasks []int) int {
+    f := make(map[int]int)
+    res := 0
+    for i := 0; i < len(tasks); i++ {
+        f[tasks[i]]++
+    }
+    
+    for _, v := range f {
+        if v == 1 {
+            return -1
+        }
+        
+        if v % 3 == 0 {
+            res += v / 3
+        } else {
+            res += (1 + v / 3)
+        }
+    }
+    
+    return res
+}
