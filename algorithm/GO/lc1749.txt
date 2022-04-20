@@ -1,0 +1,37 @@
+func max(a int, b int) int {
+    if a > b {
+        return a
+    }
+    return b
+}
+
+func min(a int, b int) int {
+    if a < b {
+        return a
+    }
+    return b
+}
+
+func abs(a int) int {
+    if a < 0 {
+        return -a
+    }
+    return a
+}
+
+
+func maxAbsoluteSum(a []int) int {
+    res := abs(a[0])
+    var mx, mn int = a[0], a[0]
+    sum := a[0]
+    for i := 1; i < len(a); i++ {
+        sum += a[i]
+        res = max(res, abs(sum))
+        res = max(res, abs(sum - mn))
+        res = max(res, abs(sum - mx))
+        
+        mx = max(mx, sum)
+        mn = min(mn, sum)
+    }
+    return res
+}
