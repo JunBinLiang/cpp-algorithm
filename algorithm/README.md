@@ -79,6 +79,9 @@
 ### DP : Distinct Subsequence
 [LC940 (H) Distinct Subsequences II ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc940.cpp) <br/> 
 
+### DP : KnapSack
+[LC1388 (H) Pizza With 3n Slices ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/GO/lc1388.txt) <br/> 
+
 
 ### 二维前缀和
 [LC1292 (M) Maximum Side Length of a Square with Sum Less than or Equal to Threshold ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1292.cpp) <br/> 
