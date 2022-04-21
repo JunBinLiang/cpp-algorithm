@@ -1,0 +1,36 @@
+func smallestRange(a [][]int) []int {
+    res := make([]int, 2)
+    dif := 1000000000
+    all := make([][]int, 0)
+    for i := 0; i < len(a); i++ {
+        for j := 0; j < len(a[i]); j++ {
+            pair := []int{a[i][j], i}
+            all = append(all, pair)
+        }
+    }
+    
+    sort.SliceStable(all, func(i, j int) bool {
+        return all[i][0] < all[j][0]
+    })
+    
+    
+    cover := make(map[int]int)
+    j := 0
+    for i := 0; i < len(all); i++ {
+        cover[all[i][1]]++
+        for len(cover) == len(a) {
+            if all[i][0] - all[j][0] < dif {
+                dif = all[i][0] - all[j][0]
+                res[0] = all[j][0]
+                res[1] = all[i][0]
+            }
+            cover[all[j][1]]--
+            if cover[all[j][1]] == 0 {
+                delete(cover, all[j][1])
+            }
+            j++
+        }
+    }
+    
+    return res
+}
