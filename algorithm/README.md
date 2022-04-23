@@ -154,3 +154,4 @@
 [894D (2200) Ralph And His Tour in Binary Country	 (Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/894D.cpp)<br/>
 [121E (2400) Lucky Array		 (Seg) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/121E.cpp)<br/>
 [1667C (2400) Half Queen Cover		 (Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1667C.cpp)<br/>
+[1667B (2100) Optimal Partition		 (Seg + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1667B.cpp)<br/>
