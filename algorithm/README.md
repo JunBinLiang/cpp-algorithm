@@ -155,3 +155,4 @@
 [121E (2400) Lucky Array		 (Seg) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/121E.cpp)<br/>
 [1667C (2400) Half Queen Cover		 (Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1667C.cpp)<br/>
 [1667B (2100) Optimal Partition		 (Seg + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1667B.cpp)<br/>
+[727F (2300) Polycarp's problems			 ( DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/727F.cpp)<br/>
