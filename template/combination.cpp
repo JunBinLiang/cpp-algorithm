@@ -42,7 +42,7 @@ namespace Combination {
 
     inv[0] = inv[1]=1;
     for (int i=2;i < 1000000 + 50;i++){
-        inv[i] = modInverse(i,mod) * inv[i-1];
+        inv[i] = modInverse(i,mod);
         inv[i] %= mod;
     }
 
