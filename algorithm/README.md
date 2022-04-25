@@ -158,3 +158,4 @@
 [727F (2300) Polycarp's problems			 ( DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/727F.cpp)<br/>
 [1292C (2300) Xenon's Attack on the Gangs		 ( DP + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1292C.cpp)<br/>
 [628E (2300) Zbazi in Zeydabad		 ( Prefix) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/628E.cpp)<br/>
+[1114F (2400) Please, another Queries on Array?		 ( Seg + Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1114F.cpp)<br/>
