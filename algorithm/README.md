@@ -157,3 +157,4 @@
 [1667B (2100) Optimal Partition		 (Seg + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1667B.cpp)<br/>
 [727F (2300) Polycarp's problems			 ( DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/727F.cpp)<br/>
 [1292C (2300) Xenon's Attack on the Gangs		 ( DP + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1292C.cpp)<br/>
+[628E (2300) Zbazi in Zeydabad		 ( Prefix) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/628E.cpp)<br/>
