@@ -163,3 +163,4 @@
 [628E (2300) Zbazi in Zeydabad		 ( Prefix) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/628E.cpp)<br/>
 [1114F (2400) Please, another Queries on Array?		 ( Seg + Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1114F.cpp)<br/>
 [906C (2400) Party		 (Bit dp) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/906C.cpp)<br/>
+[938E (2300) Max History		 (Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/938E.cpp)<br/>
