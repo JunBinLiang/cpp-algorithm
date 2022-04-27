@@ -117,6 +117,9 @@
 ### Rolling Hash
 [LC336 (H) Palindrome Pairs ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc336.cpp) <br/>
 
+### 启发式合并
+[力扣泡泡龙 (难度预测 2400)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lcp60.cpp) <br/>
+
 
 <br/><br/><br/>
 # Acwing  比赛题
