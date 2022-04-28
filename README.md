@@ -3,8 +3,7 @@
 [算法模板 ](https://github.com/JunBinLiang/cpp-algorithm/tree/main/template)  <br/>
 [算法 ](https://github.com/JunBinLiang/cpp-algorithm/tree/main/algorithm)  <br/>
 
-# 目标
-2022 ： 此库 500+ 算法题<br/>
-2023 ： CF 2100 题<br/>
-2024 ： CF : 2700 题<br/>
-2025 ： CF : 3200 题<br/>
+# 目标 上2100
+[![JunBinLiang](https://img.shields.io/badge/0x3F-MASTER%202189-orange?style=for-the-badge)](https://codeforces.com/profile/JunBinLiang) <br/>
+
+
