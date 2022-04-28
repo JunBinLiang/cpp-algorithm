@@ -4,6 +4,6 @@
 [算法 ](https://github.com/JunBinLiang/cpp-algorithm/tree/main/algorithm)  <br/>
 
 # 目标 上2100
-[![JunBinLiang](https://img.shields.io/badge/JunBinLiang-MASTER%201817-blue?style=for-the-badge)](https://codeforces.com/profile/JunBinLiang) <br/>
+[![JunBinLiang](https://img.shields.io/badge/JunBinLiang-Expert%201817-blue?style=for-the-badge)](https://codeforces.com/profile/JunBinLiang) <br/>
 
 
