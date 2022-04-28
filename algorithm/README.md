@@ -165,3 +165,4 @@
 [906C (2400) Party		 (Bit dp) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/906C.cpp)<br/>
 [938E (2300) Max History		 (Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/938E.cpp)<br/>
 [1132D (2300) Stressful Training		 (Binary Search + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1132D.cpp)<br/>
+[1607F2 (2300) Robot on the Board 2	 (Direct Graph + DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1607F2.cpp)<br/>
