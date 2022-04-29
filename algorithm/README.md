@@ -83,7 +83,7 @@
 [LC1388 (H) Pizza With 3n Slices ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/GO/lc1388.txt) <br/> 
 
 ### DP : Bitmaxk
-[LCP53 (H) 守护太空城 ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lcp53.cpp) <br/> 
+[LCP53 (H) 守护太空城 (目测难度 2100)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lcp53.cpp) <br/> 
 
 ### 二维前缀和
 [LC1292 (M) Maximum Side Length of a Square with Sum Less than or Equal to Threshold ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/Leetcode/lc1292.cpp) <br/> 
