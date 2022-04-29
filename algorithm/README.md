@@ -170,3 +170,4 @@
 [1607F2 (2300) Robot on the Board 2	 (Direct Graph + DFS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1607F2.cpp)<br/>
 [590D (2300) Top Secret Task	 (DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/590D.cpp)<br/>
 [1411E (2300) Poman Numbers	 (Thinking + Grredy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1411E.cpp)<br/>
+[37D (2300) Lesson Timetable	 (DP + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/37D.cpp)<br/>
