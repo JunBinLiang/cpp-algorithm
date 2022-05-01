@@ -65,6 +65,13 @@
 [LC2246 (H)  Longest Path With Different Adjacent Characters (Tree)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2246.cpp) <br/> 
 
 
+### Weekly 291
+[LC2259 (E) Remove Digit From Number to Maximize Result (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2259.cpp)<br/>
+[LC2260 (M) Minimum Consecutive Cards to Pick Up (HashMap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2260.cpp)<br/> 
+[LC2261 (M) K Divisible Elements Subarrays (HashMap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2261.cpp) <br/> 
+[LC2262 (H)  Total Appeal of A String (Sliding Window)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2262.cpp) <br/> 
+
+
 <br/><br/><br/>
 # Leetcode 经典题
 
