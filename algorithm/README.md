@@ -179,3 +179,4 @@
 [1411E (2300) Poman Numbers	 (Thinking + Grredy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1411E.cpp)<br/>
 [37D (2300) Lesson Timetable	 (DP + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/37D.cpp)<br/>
 [346C (2200) Number Transformation II	 (Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/346C.cpp)<br/>
+[584E (2300) Anton and Ira	 (Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/584E.cpp)<br/>
