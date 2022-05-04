@@ -154,7 +154,7 @@ bool check(ve<int>& a, int mid) {
 }
 
 void solve() {
-  scanf("%d", &n, &p);
+  scanf("%d%d", &n, &p);
   ve<int> a(n);
   for(int i = 0; i < n; i++) {
     scanf("%d", &a[i]);
@@ -163,11 +163,9 @@ void solve() {
   int mx = -1;
   sort(a.begin(), a.end());
   for(int i = 0; i < n; i++) {
-    a[i] -= i;
-    mx = max(mx, a[i]);
+    mx = max(mx, a[i] - i);
   }
 
-  cout << mx << endl;
 
   int res = -1;
   int l = mx, r = mx + n + 10;
