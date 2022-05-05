@@ -183,3 +183,4 @@
 [509F (2300) Progress Monitoring	 (Tree + Interval DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/509F.cpp)<br/>
 [538F (2200) A Heap of Heaps	 (Fenwick + 打表) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/538F.cpp)<br/>
 [1371E2 (2300) Asterism (Hard Version) (Combination + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1371E2.cpp)<br/>
+[1552E (2300) Colors and Intervals (贪心 + 证明) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1552E.cpp)<br/>
