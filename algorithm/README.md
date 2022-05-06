@@ -184,3 +184,4 @@
 [538F (2200) A Heap of Heaps	 (Fenwick + 打表) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/538F.cpp)<br/>
 [1371E2 (2300) Asterism (Hard Version) (Combination + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1371E2.cpp)<br/>
 [1552E (2300) Colors and Intervals (贪心 + 证明) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1552E.cpp)<br/>
+[1348E (2400) Phoenix and Berries	 (DP + Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1348E.cpp)<br/>
