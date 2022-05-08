@@ -72,6 +72,14 @@
 [LC2262 (H)  Total Appeal of A String (Sliding Window)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2262.cpp) <br/> 
 
 
+### Weekly 292
+[LC2264 (E) Largest 3-Same-Digit Number in String (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2264.cpp)<br/>
+[LC2265 (M) Count Nodes Equal to Average of Subtree (Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2265.cpp)<br/> 
+[LC2266 (M) Count Number of Texts (DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2266.cpp) <br/> 
+[LC2267 (H) Check if There Is a Valid Parentheses String Path (DP)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2267.cpp) <br/> 
+
+
+
 <br/><br/><br/>
 # Leetcode 经典题
 
