@@ -195,3 +195,4 @@
 [1348E (2400) Phoenix and Berries	 (DP + Math) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1348E.cpp)<br/>
 [1675G (2300) Sorting Pancakes	 (DP ) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1675G.cpp)<br/>
 [555C (2200) Case of Chocolate (Segment Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/555C.cpp)<br/>
+[1453E (2300) Dog Snacks ( Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1453E.cpp)<br/>
