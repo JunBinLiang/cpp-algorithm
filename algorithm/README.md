@@ -196,3 +196,4 @@
 [1675G (2300) Sorting Pancakes	 (DP ) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1675G.cpp)<br/>
 [555C (2200) Case of Chocolate (Segment Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/555C.cpp)<br/>
 [1453E (2300) Dog Snacks ( Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1453E.cpp)<br/>
+[425C (2300) Sereja and Two Sequences ( DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/425C.cpp)<br/>
