@@ -199,3 +199,4 @@
 [425C (2300) Sereja and Two Sequences ( DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/425C.cpp)<br/>
 [788C (2300) The Great Mixing	 ( Thinking + Graph) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/788C.cpp)<br/>
 [1610E (2300) AmShZ and G.O.A.T.	 ( Thinking + Greedy + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1610E.cpp)<br/>
+[677D (2300) Vanya and Treasure	 ( DP + Sorting) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/677D.cpp)<br/>
