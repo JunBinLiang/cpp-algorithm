@@ -79,6 +79,13 @@
 [LC2267 (H) Check if There Is a Valid Parentheses String Path (DP)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2267.cpp) <br/> 
 
 
+### Bi-Weekly 78
+[LC2269 (E) Find the K-Beauty of a Number (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2269.cpp)<br/>
+[LC2270 (M) Number of Ways to Split Array (Array) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2270.cpp)<br/> 
+[LC2271 (M) Maximum White Tiles Covered by a Carpet (Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2271.cpp) <br/> 
+[LC2272 (H) Substring With Largest Variance (Prefix Sum)](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/weekly-contest/2272.cpp) <br/> 
+
+
 
 <br/><br/><br/>
 # Leetcode 经典题
