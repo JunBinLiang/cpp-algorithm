@@ -77,7 +77,7 @@ int to_int(string& s) {
 }
 
 string substring(string& s, int l, int r) {
-  string res = "":
+  string res = "";
   for(int i = l; i <= r; i++) res += s[i];
   return res;
 }
