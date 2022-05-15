@@ -76,6 +76,12 @@ int to_int(string& s) {
   return res;
 }
 
+string substring(string& s, int l, int r) {
+  string res = "":
+  for(int i = l; i <= r; i++) res += s[i];
+  return res;
+}
+
 bool COMP(ve<int>& a, ve<int>& b) {
   return false;
 }
