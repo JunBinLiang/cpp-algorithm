@@ -209,3 +209,4 @@
 [677D (2300) Vanya and Treasure	 ( DP + Sorting) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/677D.cpp)<br/>
 [1385F (2300) Removing Leaves ( Tree + Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1385F.cpp)<br/>
 [992E (2500) Nastya and King-Shamans ( Thinking + Brute Force + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/992E.cpp)<br/>
+[1398F (2500) Controversial Rounds( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1398F.cpp)<br/>
