@@ -211,3 +211,4 @@
 [992E (2500) Nastya and King-Shamans ( Thinking + Brute Force + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/992E.cpp)<br/>
 [1398F (2500) Controversial Rounds( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1398F.cpp)<br/>
 [1670E (2200) Hemose on the Tree ( Bit + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1670E.cpp)<br/>
+[1684E (2100) MEX vs DIFF ( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1684E.cpp)<br/>
