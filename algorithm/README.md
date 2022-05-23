@@ -213,3 +213,4 @@
 [1670E (2200) Hemose on the Tree ( Bit + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1670E.cpp)<br/>
 [1684E (2100) MEX vs DIFF ( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1684E.cpp)<br/>
 [444C (2400) DZY Loves Colors ( Thinking + Segmeng Push + Segment Tree Time) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/444C.cpp)<br/>
+[1679E (2400) Typical Party in Dorm ( Thinking +DP + SOS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1679E.cpp)
