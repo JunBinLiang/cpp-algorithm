@@ -51,12 +51,14 @@ public class Main {
         //PrintWriter pr=new PrintWriter("output.txt")
         int T=1;
         for(int t=0;t<T;t++){
+            Solution sol1=new Solution(out,fs);
             int n = fs.Int();
-            int a[] = new int[n];
-            for(int i = 0; i < n; i++) a[i] = fs.Int();
-            Solution sol1=new Solution();
+            int a[] = new int[n * 2];
+            for(int i = 0; i < a.length; i++) a[i] = fs.Int();
             sol1.solution(a);
         }
+        out.flush();
+
     }
 
 
@@ -77,19 +79,35 @@ public class Main {
 }
 
 
-//Q : You are given an array a, you can do the following operation any number of times : 
-//choose an element a[i] and divide it by 2
-//You want to make the array strictly increasing, that is a[0] < a[1] < a[2] < ... a[n - 1]
-//What is the minimum operations you need to make the array increasing? 
-//Or if is impossible, print -1 instead
+//You are given an array with size 2 * n
+// Determine if you can split it into exactly n pairs, the sum of each pair is odd
+//Print "YES" if you can, otherwise, print "NO"
 
-//Example : [3, 6, 5] = > [3,3,5] => [1, 3, 5] minimum 2 operations needed
-// [5, 3, 2, 1] : -1, can not make it increasing
-// [1,2,3,4,5] : 5, already increasing
+//Example1 :
+// n = 2
+//array : 2 3 4 5
+//"YES"
+
+//Example2 :
+// n = 3
+//array : 2 3 4 5 5 5
+//"NO"
 
 class Solution {
+    PrintWriter out;
+    int INF = Integer.MAX_VALUE;
+    int NINF = Integer.MIN_VALUE;
+    int MOD = 998244353;
+    int mod = 998244353;
+    Main.FastScanner fs;
+
+    public Solution(PrintWriter out, Main.FastScanner fs) {
+        this.out = out;
+        this.fs = fs;
+    }
+
     public void solution(int a[]) {
-        
+
 
     }
 
