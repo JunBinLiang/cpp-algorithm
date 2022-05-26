@@ -215,3 +215,4 @@
 [444C (2400) DZY Loves Colors ( Thinking + Segmeng Push + Segment Tree Time) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/444C.cpp)<br/>
 [1679E (2400) Typical Party in Dorm ( Thinking +DP + SOS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1679E.cpp)
 [1358E (2400) Are You Fired? ( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1358E.cpp)
+[1527D (2400) MEX Tree ( Tree + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1527D.cpp)
