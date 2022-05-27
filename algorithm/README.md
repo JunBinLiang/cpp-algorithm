@@ -216,3 +216,4 @@
 [1679E (2400) Typical Party in Dorm ( Thinking +DP + SOS) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1679E.cpp)
 [1358E (2400) Are You Fired? ( Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1358E.cpp)
 [1527D (2400) MEX Tree ( Tree + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1527D.cpp)
+[626E (2400) Simple Skewness (三分 + Math + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/626E.cpp)
