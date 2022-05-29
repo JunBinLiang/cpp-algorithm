@@ -3,6 +3,17 @@ namespace Combination {
   ll fact[1000000 + 100];
   ll inv[1000000 + 100];
   int c[505][505];
+  
+ll fpow(ll x, int y){
+	ll res = 1;
+	while(y){
+		if(y & 1) res = (res * x) % mod;
+		x = (x * x) %mod;
+		y >>= 1;
+	}
+	return res;
+}  
+  
 ll modInverse(ll a, ll m) {
     ll m0 = m;
     ll y = 0, x = 1;
