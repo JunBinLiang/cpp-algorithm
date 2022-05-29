@@ -218,3 +218,4 @@
 [1527D (2400) MEX Tree ( Tree + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1527D.cpp)<br/>
 [626E (2400) Simple Skewness (三分 + Math + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/626E.cpp)<br/>
 [1606D (2400) Red-Blue Matrix	 (Sorting) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1606D.cpp)<br/>
+[1606E (2100) Arena	 (DP + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1606E.cpp)<br/>
