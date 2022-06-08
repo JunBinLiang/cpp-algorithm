@@ -220,3 +220,4 @@
 [1606D (2400) Red-Blue Matrix	 (Sorting) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1606D.cpp)<br/>
 [1606E (2100) Arena	 (DP + Combination) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1606E.cpp)<br/>
 [715B (2300) Complete The Graph	 (Constructicve + Thinking + Shortest Path) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/715B.cpp)<br/>
+[1691E (2300) Number of Groups	 (UF + Interval + Sort) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1691E.cpp)<br/>
