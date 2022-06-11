@@ -223,3 +223,4 @@
 [1691E (2300) Number of Groups	 (UF + Interval + Sort) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1691E.cpp)<br/>
 [1690G (2000) Count the Trains	 (TreeMap) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1690G.java)<br/>
 [1659E (2200) AND-MEX Walk	 (UF + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1659E.cpp)<br/>
+[1463E (2400) Plan of Lectures	 (Topo + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1463E.cpp)<br/>
