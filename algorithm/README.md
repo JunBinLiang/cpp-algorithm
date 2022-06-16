@@ -225,3 +225,4 @@
 [1659E (2200) AND-MEX Walk	 (UF + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1659E.cpp)<br/>
 [1463E (2400) Plan of Lectures	 (Topo + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1463E.cpp)<br/>
 [1666E (2500) Even Split	 (Thinking + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1666E.cpp)<br/>
+[1244F (2300) Chips	 (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1244F.cpp)<br/>
