@@ -227,3 +227,4 @@
 [1666E (2500) Even Split	 (Thinking + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1666E.cpp)<br/>
 [1244F (2300) Chips	 (Implementation) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1244F.cpp)<br/>
 [1521D (2500) Nastia Plays with a Tree		 (Tree DP + Constructive + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1521D.cpp)<br/>
+[1374F (2400) Cyclic Shifts Sorting		 (Sort + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1374F.cpp)<br/>
