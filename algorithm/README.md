@@ -229,3 +229,4 @@
 [1521D (2500) Nastia Plays with a Tree		 (Tree DP + Constructive + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1521D.cpp)<br/>
 [1374F (2400) Cyclic Shifts Sorting		 (Sort + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1374F.cpp)<br/>
 [1598F (2400) RBS		 (Thinking + Bitmask DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1598F.cpp)<br/>
+[1088E (2400) Ehab and a component choosing problem		 (Thinking + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1088E.cpp)<br/>
