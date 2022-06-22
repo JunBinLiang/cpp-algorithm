@@ -232,3 +232,4 @@
 [1088E (2400) Ehab and a component choosing problem		 (Thinking + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1088E.cpp)<br/>
 [1620E (1900) Replace the Numbers		 (Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1620E.cpp)<br/>
 [1059E (2400) Split the Tree	 (Tree + Sparse + Greedy + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1059E.cpp)<br/>
+[1526E (2400) Oolimry and Suffix Array	 (Combination + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1526E.cpp)<br/>
