@@ -235,3 +235,4 @@
 [1526E (2400) Oolimry and Suffix Array	 (Combination + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1526E.cpp)<br/>
 [1236D (2300) Alice and the Doll	 (模拟 + 二分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1236D.cpp)<br/>
 [1042F (2400) Leaf Sets	 (Tree + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1042F.cpp)<br/>
+[1494D (2300) Dogeforces	 (Constructive + Divide Conquer + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1494D.cpp)<br/>
