@@ -237,3 +237,4 @@
 [1042F (2400) Leaf Sets	 (Tree + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1042F.cpp)<br/>
 [1494D (2300) Dogeforces	 (Constructive + Divide Conquer + Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1494D.cpp)<br/>
 [1672H (2700) Zigu Zagu	 (Thinking + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1672H.cpp)<br/>
+[1572C (2700) Paint (Thinking + Interval DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1572C.cpp)<br/>
