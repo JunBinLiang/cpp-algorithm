@@ -240,3 +240,4 @@
 [1572C (2700) Paint (Thinking + Interval DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1572C.cpp)<br/>
 [1223F (2600) Stack Exterminable Arrays (Thinking +  DP + Jump) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1223F.cpp)<br/>
 [1256C (1700) Platforms Jumping (Greedy + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1256C.cpp)<br/>
+[1550E (2500) Stringforces (Bit DP + Thinking + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1550E.cpp)<br/>
