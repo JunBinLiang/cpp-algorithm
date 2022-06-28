@@ -242,3 +242,4 @@
 [1256C (1700) Platforms Jumping (Greedy + Constructive) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1256C.cpp)<br/>
 [1550E (2500) Stringforces (Bit DP + Thinking + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1550E.cpp)<br/>
 [1467E (2500) Distinctive Roots in a Tree (树上差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1467E.cpp)<br/>
+[1624G (1900) MinOr Tree (UF) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624G.cpp)<br/>
