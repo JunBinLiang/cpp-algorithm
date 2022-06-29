@@ -86,6 +86,10 @@ bool COMP(ve<int>& a, ve<int>& b) {
   return false;
 }
 
+struct Tuple {
+  int a, b, c;
+};
+
 int mod = 1000000007;
 
 int main()
