@@ -245,3 +245,4 @@
 [1624G (1900) MinOr Tree (UF) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624G.cpp)<br/>
 [1624F (2000) Interacdive Problem (Interactive + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624F.cpp)<br/>
 [1624E (2000) Masha-forgetful (Brute Force + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624E.cpp)<br/>
+[1442D (2800) Sum (Divide Conquer + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1442D.cpp)<br/>
