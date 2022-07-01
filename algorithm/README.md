@@ -246,3 +246,4 @@
 [1624F (2000) Interacdive Problem (Interactive + Binary Search) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624F.cpp)<br/>
 [1624E (2000) Masha-forgetful (Brute Force + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1624E.cpp)<br/>
 [1442D (2800) Sum (Divide Conquer + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1442D.cpp)<br/>
+[1375E (2500) Inversion SwapSort (Sort) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1375E.cpp)<br/>
