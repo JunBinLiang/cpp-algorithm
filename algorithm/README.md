@@ -248,3 +248,4 @@
 [1442D (2800) Sum (Divide Conquer + DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1442D.cpp)<br/>
 [1375E (2500) Inversion SwapSort (Sort) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1375E.cpp)<br/>
 [1670F (2400) Jee, You See? (Bitmask + Digit DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1670F.cpp)<br/>
+[1101F (2400) Trucks and Cities (DP + Two Pointer) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1101F.cpp)<br/>
