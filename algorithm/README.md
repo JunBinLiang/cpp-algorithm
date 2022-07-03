@@ -250,3 +250,4 @@
 [1670F (2400) Jee, You See? (Bitmask + Digit DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1670F.cpp)<br/>
 [1101F (2400) Trucks and Cities (DP + Two Pointer) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1101F.cpp)<br/>
 [1080F (2400) Katya and Segments Sets (主席树) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1080F.cpp)<br/>
+[1680D (2400) Dog Walking (Math + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1680D.cpp)<br/>
