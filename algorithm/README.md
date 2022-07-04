@@ -251,3 +251,4 @@
 [1101F (2400) Trucks and Cities (DP + Two Pointer) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1101F.cpp)<br/>
 [1080F (2400) Katya and Segments Sets (主席树) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1080F.cpp)<br/>
 [1680D (2400) Dog Walking (Math + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1680D.cpp)<br/>
+[1452E (2500) Two Editorials (Thinking + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1452E.cpp)<br/>
