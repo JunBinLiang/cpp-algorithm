@@ -253,3 +253,4 @@
 [1680D (2400) Dog Walking (Math + Greedy) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1680D.cpp)<br/>
 [1452E (2500) Two Editorials (Thinking + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1452E.cpp)<br/>
 [1325E (2600) Ehab's REAL Number Theory Problem (构造图 + 最小环 + BFS + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1325E.cpp)<br/>
+[1687C (2500) Sanae and Giant Robot	 (Thinking + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1687C.java)<br/>
