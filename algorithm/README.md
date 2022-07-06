@@ -255,3 +255,4 @@
 [1325E (2600) Ehab's REAL Number Theory Problem (构造图 + 最小环 + BFS + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1325E.cpp)<br/>
 [1687C (2500) Sanae and Giant Robot	 (Thinking + 差分) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1687C.java)<br/>
 [1626E (2400) Black and White Tree (Tree + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1626E.cpp)<br/>
+[1699D (2300) Almost Triple Deletions (DP + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1699D.cpp)<br/>
