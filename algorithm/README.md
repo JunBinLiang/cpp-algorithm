@@ -257,3 +257,4 @@
 [1626E (2400) Black and White Tree (Tree + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1626E.cpp)<br/>
 [1699D (2300) Almost Triple Deletions (DP + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1699D.cpp)<br/>
 [1385G (2300) Columns Swaps (建图 + 强连通 + dfs + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1385G.cpp)<br/>
+[311B (2400) Cats Transport (斜率 DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/311B.cpp)<br/>
