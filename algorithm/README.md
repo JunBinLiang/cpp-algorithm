@@ -258,3 +258,4 @@
 [1699D (2300) Almost Triple Deletions (DP + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1699D.cpp)<br/>
 [1385G (2300) Columns Swaps (建图 + 强连通 + dfs + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1385G.cpp)<br/>
 [311B (2400) Cats Transport (斜率 DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/311B.cpp)<br/>
+[1702G2 (2000) Passable Paths (easy version) (Tree + Sparse Table) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1702G2.cpp)<br/>
