@@ -259,3 +259,4 @@
 [1385G (2300) Columns Swaps (建图 + 强连通 + dfs + Thinking) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1385G.cpp)<br/>
 [311B (2400) Cats Transport (斜率 DP) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/311B.cpp)<br/>
 [1702G2 (2000) Passable Paths (easy version) (Tree + Sparse Table) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1702G2.cpp)<br/>
+[1633E (2400) Spanning Tree Queries	 (easy version) (Spanning Tree) ](https://github.com/JunBinLiang/cpp-algorithm/blob/main/algorithm/codeforce/1633E.cpp)<br/>
