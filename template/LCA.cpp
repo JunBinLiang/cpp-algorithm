@@ -1,10 +1,10 @@
 int LCA(int x,int y) {
-  if(levels[x] < levels[y]){
+  if(d[x] < d[y]){
     return LCA(y,x);
   }
 
   for(int i = 20; i>=0; i--) {
-    if(f[x][i] != -1 && levels[f[x][i]] >= levels[y]) {
+    if(f[x][i] != -1 && d[f[x][i]] >= d[y]) {
       x = f[x][i];
     }
   }
