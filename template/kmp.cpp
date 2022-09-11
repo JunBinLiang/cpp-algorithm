@@ -9,9 +9,9 @@ vector<int> pre(string& pattern){
     }else{
       if(l == 0)r++;
       else{
-            l=pre[l-1];
+            l = pre[l-1];
           }
-      }
     }
-    return pre;
+  }
+  return pre;
 }
