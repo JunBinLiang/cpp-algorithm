@@ -1,6 +1,7 @@
 const int N = 1e6;
 struct Node {
     int nxt[26];
+    int cnt = 0;
 } nodes[N];
 int idx = 2;
 
@@ -20,6 +21,16 @@ public:
                 idx++;
             } 
             root = nodes[root].nxt[nxt];
+            nodes[root].cnt ++;
+        }
+    }
+    
+    void del(string word) {
+        int root = 1;
+        for(char c : word) {
+            int nxt = c - 'a'; 
+            root = nodes[root].nxt[nxt];
+            nodes[root].cnt --;
         }
     }
         
