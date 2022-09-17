@@ -6,13 +6,11 @@ int idx = 2;
 
 class Trie {
 public:
-    set<string> s;
     Trie() {
         nodes[1] = {};
     }
     
     void insert(string word) {
-        s.insert(word);
         int root = 1;
         for(char c : word) {
             int nxt = c - 'a';
