@@ -61,6 +61,20 @@ ostream& operator <<(ostream& out, const unordered_map<U, T, Cmp>& a) {
   return out;
 }
 
+unsigned long long seed=131;
+unsigned long long rands(){return seed=(seed<<15)+(seed<<8)+(seed>>3);}
+
+/*const int M = 60;
+typedef array<int, M> num;
+num operator ^(const num &a, const num &b){
+    num c;
+    for(int i = 0; i < M; i++) {
+        c[i] = a[i] + b[i];
+        if (c[i] >= 3) c[i] -= 3;
+    }
+    return c;
+}*/
+
 ll gcd(ll x, ll y) {
     return (y == 0 ? x : gcd(y, x % y));
 }
