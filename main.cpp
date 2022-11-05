@@ -61,8 +61,8 @@ ostream& operator <<(ostream& out, const unordered_map<U, T, Cmp>& a) {
   return out;
 }
 
-unsigned long long seed=131;
-unsigned long long rands(){return seed=(seed<<15)+(seed<<8)+(seed>>3);}
+unsigned long long seed = 131;
+unsigned long long rands(){return seed = (seed << 15) + (seed << 8) + (seed >> 3);}
 
 /*const int M = 60;
 typedef array<int, M> num;
