@@ -105,7 +105,8 @@ struct Tuple {
 };
 
 int mod = 1000000007;
-
+ifstream fcin("test/input.txt");
+ofstream fcout("test/output.txt");
 int main()
 {
 
