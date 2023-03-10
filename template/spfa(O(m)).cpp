@@ -1,30 +1,17 @@
 #include <iostream>
 #include <vector>
-#include <string>
 #include <map>
-#include <unordered_map>
 #include <set>
-#include <unordered_set>
-#include <algorithm>
-#include <cmath>
-#include <cstring>
 #include <queue>
-#include <list>
+#include <cstring>
+#include <algorithm>
 
-using namespace std;
+
+using namespace std;  
 using ll = long long;
+#define FOR(i, a, b) for (int i = a; i < b; ++i)
 #define pb push_back
 #define ve vector
-#define FOR(i, a, b) for (int i = a; i < b; ++i)
-#define RFOR(i, a, b) for (int i = a; i >= b; i--)
-#define f first
-#define se second
-#define W while
-#define um unordered_map
-#define us unordered_set
-#define be begin
-#define en end
-
 
 
 
@@ -76,14 +63,14 @@ void spfa()
 void solve() {
     cin >> n >> m >> S >> T;
     memset(h, -1, sizeof h);
-    for (int i = 0; i < m; i ++ )
-    {
+    for (int i = 0; i < m; i ++ ) {
         int a, b, c;
-        cin >> a >> b >> c;
+        scanf("%d%d%d", &a, &b, &c);
         add(a, b, c), add(b, a, c);
     }
 
     spfa();
+    
     cout << dist[T] << endl;
 }
 
@@ -93,8 +80,7 @@ int main()
 
   int t = 1;
   //cin >> t;
-  W (t--)
-  { 
+  while(t--) { 
     solve();
   }
   return 0;
