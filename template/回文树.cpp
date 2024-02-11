@@ -73,7 +73,7 @@ void solve() {
       int failnode = getfail(last, i);
       if(ch[failnode][s[i]] == 0) { //需要新建node
         int node = newnode(len[failnode] + 2); //前后都加上新字符，所以新回文串长度要加2
-        fail[node] = ch[getfail(fail[failnode], i)][s[i]];; //因为fail指向的是原串的严格后缀，所以要从failnode的fail开始找起 
+        fail[node] = ch[getfail(fail[failnode], i)][s[i]]; //因为fail指向的是原串的严格后缀，所以要从failnode的fail开始找起 
         ch[failnode][s[i]] = node;
       }
       last = ch[failnode][s[i]];
