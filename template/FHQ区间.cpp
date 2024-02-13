@@ -42,19 +42,19 @@ unsigned long long seed = 1;
 const int N = 500010 + 100;
 struct FHQ {
     struct {
-    int l, r;  // 左右孩子
-    int val;   // 节点权值
-    int rnd;   // 随机值
-    int size;  // 子树大小
+      int l, r;  // 左右孩子
+      int val;   // 节点权值
+      int rnd;   // 随机值
+      int size;  // 子树大小
 
-    int rev_tag;  // 翻转延迟标记
-    int cov_tag;  // 覆盖延迟标记
-    int cov_val;  // 覆盖更新的值
+      int rev_tag;  // 翻转延迟标记
+      int cov_tag;  // 覆盖延迟标记
+      int cov_val;  // 覆盖更新的值
 
-    ll sum;   // 子树的区间和
-    ll ls;  // 区间最大前缀和
-    ll rs;  // 区间最大后缀和
-    ll ms;  // 子树内最大的区间和
+      ll sum;   // 子树的区间和
+      ll ls;  // 区间最大前缀和
+      ll rs;  // 区间最大后缀和
+      ll ms;  // 子树内最大的区间和
     } tr[N];
     
     int gctop = -1, stk[N];
