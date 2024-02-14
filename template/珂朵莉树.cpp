@@ -22,5 +22,4 @@ void assign(int l, int r, int v) {
   auto end = split(r + 1), begin = split(l); // 顺序不能颠倒，否则可能RE
   tree.erase(begin, end); 
   tree.insert(node(l, r, v));
-  ans += (r - l + 1) * v;
 }
