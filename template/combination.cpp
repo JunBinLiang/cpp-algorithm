@@ -7,8 +7,8 @@ namespace Combination {
 ll fpow(ll x, int y){
 	ll res = 1;
 	while(y){
-		if(y & 1) res = (res * x) % mod;
-		x = (x * x) %mod;
+		if(y & 1) res = (res * x) % MOD;
+		x = (x * x) % MOD;
 		y >>= 1;
 	}
 	return res;
