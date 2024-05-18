@@ -1,3 +1,5 @@
+//https://www.acwing.com/solution/content/42758/
+
 #include <iostream>
 #include <vector>
 #include <string>
