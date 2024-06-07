@@ -1,48 +1,37 @@
-const int N = 1e6;
-struct Node {
-    int nxt[26];
-    int cnt = 0;
-} nodes[N];
-int idx = 2;
+struct Trie {
+    vector<vector<int>> tr;
+    unordered_set<int> words;
+    int id = 1;
 
-class Trie {
-public:
     Trie() {
-        nodes[1] = {};
+        vector<int> childs(26, -1);
+        tr.push_back(childs);
     }
     
-    void insert(string word) {
-        int root = 1;
-        for(char c : word) {
-            int nxt = c - 'a';
-            if(nodes[root].nxt[nxt] == 0) {
-                nodes[idx] = {};
-                nodes[root].nxt[nxt] = idx;
-                idx++;
-            } 
-            root = nodes[root].nxt[nxt];
-            nodes[root].cnt ++;
+    void add(string& s) {
+        int u = 0;
+        for(int i = 0; i < s.size(); i++) {
+            if(tr[u][s[i] - 'a'] == -1) {
+                if(tr.size() == id) {
+                    vector<int> childs(26, -1);
+                    tr.push_back(childs);
+                }
+                tr[u][s[i] - 'a'] = id++;
+            }
+            u = tr[u][s[i] - 'a'];
         }
+        words.insert(u);
     }
-    
-    void del(string word) {
-        int root = 1;
-        for(char c : word) {
-            int nxt = c - 'a'; 
-            root = nodes[root].nxt[nxt];
-            nodes[root].cnt --;
+    string find(string& s) {
+        int u = 0;
+        string ans = "";
+        for(int i = 0; i < s.size() && u != -1; i++) {
+            u = tr[u][s[i] - 'a'];
+            if(u != -1) {
+                ans += s[i];
+            }
+            if(words.find(u) != words.end()) return ans;
         }
-    }
-        
-    bool startsWith(string prefix) {
-        int root = 1;
-        for(char c : prefix) {
-            int nxt = c - 'a';
-            if(nodes[root].nxt[nxt] == 0) {
-                return false;
-            } 
-            root = nodes[root].nxt[nxt];
-        }
-        return true;
+        return "";
     }
 };
