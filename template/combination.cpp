@@ -42,7 +42,7 @@ ll modInverse(ll a, ll m) {
 
 
 ll C(int n,int m) {
-  return fact[n] * fpow(fact[n - m], MOD - 2) % mod * fpow(fact[m], MOD - 2) % MOD;
+  return fact[n] * fpow(fact[n - m], MOD - 2) % MOD * fpow(fact[m], MOD - 2) % MOD;
 }
 
   void init() {
