@@ -103,7 +103,8 @@ ifstream fcin("test/input.txt");
 ofstream fcout("test/output.txt");
 int main()
 {
-
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr), cout.tie(nullptr);
   return 0;
 }
 
