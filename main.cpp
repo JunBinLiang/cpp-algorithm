@@ -11,6 +11,11 @@
 using namespace std;
 using ll = long long;
 
+#define MAX(x) *max_element(ALL(x))
+#define MIN(x) *min_element(ALL(x))
+#define SUM(x) accumulate(x.begin(), x.end(), 0LL)
+#define SORT(x) sort(x.begin(), x.end())
+
 #define pb push_back
 #define f first
 #define s second
